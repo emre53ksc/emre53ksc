@@ -1,6 +1,6 @@
 Hello!, I am Emre 👋
 
-As an IZTECH student, I started software by learning python. I am currently learning OOP over Java. I want to improve myself on software architecture.
+As an IZTECH student, I started software by learning python. Then I learned OOP over Java. I want to improve myself on software architecture.
 
 my contact addresses:
   ksc.emre.53@gmail.com
